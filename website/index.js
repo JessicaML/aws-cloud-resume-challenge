@@ -4,5 +4,4 @@ async function updateCounter() {
     console.log('data', data)
     document.getElementById("counter").innerHTML = data
 }
-
 updateCounter();
